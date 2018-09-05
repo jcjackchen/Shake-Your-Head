@@ -1,7 +1,7 @@
 # Plane  
 
 This is an arcade airplane shooting game, unlike traditional control scheme, it uses face tracking system to control airplane.
-This project is being developed during *hackPKU 2018*.
+This project was developed during *hackPKU 2018*.
 
 Environment: Python 2.7.14
 
