@@ -1,4 +1,4 @@
-# Plane  
+# Shake-Your-Head 
 
 This is an arcade airplane shooting game, unlike traditional control scheme, it uses face tracking system to control airplane.
 This project was developed during *hackPKU 2018*.
